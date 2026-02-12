@@ -11,7 +11,7 @@
                         1 IFRI</span>
                 </div>
                 <div class="col-md-6 text-center text-md-end mt-2 mt-md-0">
-                    <span>Fait par Miguel D.</span>
+                    <span>Fait par Miguel D. et Déo-Gracias F.</span>
                 </div>
             </div>
         </div>
